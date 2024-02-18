@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Arduino platform, 
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/p_Arduino.png)](https://dicer0.com/#skills)
+[![Arduino](http://dicer0.com/wp-content/uploads/2023/09/p_Arduino.png)](https://dicer0.com/#skills)
